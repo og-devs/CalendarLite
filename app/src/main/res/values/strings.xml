@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calendar Lite</string>
+    <string name="no_item_description">No items to show.</string>
+    <string name="item_entry_title">New Entry</string>
+    <string name="item_detail_title">Details</string>
+    <string name="edit_item_title">Edit Entry</string>
+    <string name="delete">Delete</string>
+    <string name="item_title">title</string>
+    <string name="item_description">Description</string>
+    <string name="save_action">Save</string>
+    <string name="date_picker">Date picker</string>
+</resources>
