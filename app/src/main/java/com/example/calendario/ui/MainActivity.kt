@@ -1,4 +1,4 @@
-package com.example.calendario
+package com.example.calendario.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
